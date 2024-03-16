@@ -21,6 +21,7 @@ Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavima
 2) tiksliai žinote, kad norite pvz. kurti puslapius, kurti žaidimus ir pan., tada nepadėsiu.
 
 ##### 1 val. pamoka:
+
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
