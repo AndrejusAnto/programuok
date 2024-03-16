@@ -6,7 +6,7 @@ Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavima
 
 2) vyresnis ir norite susipažinti ar pvz. dabartiniame darbe pritaikyti programvimo dalykus kaip taip vadinamas script'tinimas.
 
-3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. https://www.turingcollege.com/data-science ar https://www.turingcollege.com/masters-degree.
+3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [https://www.turingcollege.com/data-science] ar [https://www.turingcollege.com/masters-degree].
 
 ##### Privalumai:
 1) nereikia įsipareigoti ilgesniam laikotarpiui (priklausomai nuo kursų termino).
