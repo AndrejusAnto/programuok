@@ -1,6 +1,6 @@
 Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavimas yra labai specifinis ir tiesiog būti pasirengusiam programuoti, nors jei ir nėra problemos su matematika, neužtenka, nes yra posakis "Visi (beveik) gali programuoti, bet ne visi turėtų". Užimtumo tarnyba turi galimybę finansuoti programvimo kursus, nesvarbu ar dirbantis ar bedarbis. Čia problema, kad turit tiksliai žinoti, kad tikrai norite programuoti, nes jei po kiek laiko susiprasite, kad ne jums arba jei gyvnenimiškos aplinkybės nebeleis tęsti kursų, reiks sumokėti kompensuojamas kursų kainas ir programavimo kursai nėra pigūs. Ir tada po kursų teks per 6 mėn. susirasti darbą arba išsiimti individualios veiklos pažymėjimą ir bent minimaliai tuos 6 mėn. mokėti PSD. 
 
-###### Taigi galiu supažindinti/išmokyti **"high level" Python'o** ir **"low level" C** programvimo kalbomis ir nesvarbu ar esate:
+##### Taigi galiu supažindinti/išmokyti **"high level" Python'o** ir **"low level" C** programvimo kalbomis ir nesvarbu ar esate:
 
 1) jaunuolis
 
@@ -21,11 +21,6 @@ Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavima
 2) tiksliai žinote, kad norite pvz. kurti puslapius, kurti žaidimus ir pan., tada nepadėsiu.
 
 ##### 1 val. pamoka:
-
-##### 5Eur avansas
-
-##### 5Eur po pamokos.
-
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
