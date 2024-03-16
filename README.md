@@ -26,9 +26,9 @@ Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavima
 
 ##### 5Eur po pamokos.
 
-| Avansas  | Po pamokos |
-| -------- | ---------- |
-|   5Eur   |     5Eur   |
+| Avansas | Po pamokos |
+|---------|------------|
+|   5Eur  |     5Eur   |
 
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankinškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes galimas ilgalaikis progreso sekimas. 
 
