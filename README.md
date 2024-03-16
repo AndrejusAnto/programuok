@@ -26,6 +26,6 @@ Dabar labai išpopuliarintas programavimas (ir algos neblogos), bet programavima
 
 ##### 5Eur po pamokos.
 
-Sakyčiau, kad reiktų iki 10 pamokų, po to jau galima arba savarkinškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas. 
+Priklausomai nuo , grubiai reiktų iki 10 pamokų, po to jau galima arba savarankinškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas. 
 
-Kol kas, pamokos vyktų online būdu, jūsų nurodytų adresu būtų siunčiamas prisiungimo nuoroda (naudojama https://p2p.mirotalk.com/, https://sfu.mirotalk.com/ ir pan.), galima naudoti ir pvz. Brave Talk https://brave.com/talk/ (reiktų instaliuoti Brave naršykle, bet kai nebereiktų tiesiog galima išinstaliuoti), nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip https://internxt.com/temporary-email arba https://incognitomail.co/. Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje https://azuolynobiblioteka.lt/rezervacijos/.
+Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisiungimo nuoroda (naudojama https://p2p.mirotalk.com/, https://sfu.mirotalk.com/ ir pan.), galima naudoti ir pvz. Brave Talk https://brave.com/talk/ (reiktų instaliuoti Brave naršykle, bet kai nebereiktų tiesiog galima išinstaliuoti), nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip https://internxt.com/temporary-email arba https://incognitomail.co/. Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje https://azuolynobiblioteka.lt/rezervacijos/.
