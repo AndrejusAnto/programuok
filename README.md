@@ -28,7 +28,12 @@
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
 
-(nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs neprarastumėte visos pamokos kainos, tuo pačiu ir aš neprarasčiau valandos).
+(nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs neprarastumėte visos pamokos kainos, tuo pačiu ir aš neprarasčiau valandos). Aišku, jei pamoka nėįvyktų dėl mano kaltės, mokėjimas būtų grąžinimas.
+
+##### Apmokėjimas:
+1) pagal tel. numerį, naudojant mobiliosiomis programomis.
+2) pavedimu (tiek pilną kainą, tiek avansą ir likusią dalį po pamokos).
+3) ateityje galbūt ir grynais.
 
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes ilgalaikis progreso sekimas ne problema. 
 
