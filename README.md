@@ -28,7 +28,7 @@
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
 
-(nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs neprarastumėte visos pamokos kainos, tuo pačiu ir aš neprarasčiau valandos). Aišku, jei pamoka nėįvyktų dėl mano kaltės, mokėjimas būtų grąžinimas.
+nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs neprarastumėte visos pamokos kainos, tuo pačiu ir aš neprarasčiau valandos. Aišku, jei mano kaltė, mokėjimas būtų grąžinimas.
 
 ##### Apmokėjimas:
 1) pagal tel. numerį, naudojant mobiliosiomis programomis.
