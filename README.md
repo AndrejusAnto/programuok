@@ -24,8 +24,6 @@
 
 ##### 1 val. pamoka:
 
-|       :---:          |
-|   10 Eur             |
         arba 
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
