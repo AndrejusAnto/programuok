@@ -18,7 +18,7 @@
 ##### Nesikreipti, jei:
 1) reikia atlikti mokymosi įstaigų užduotis.
 
-2) tiksliai žinote, kad norite pvz. kurti puslapius, žaidimus, kad norite išmokti data science, nors ir turiu supratimą ML ir AI, bet kursai būtų geriau.
+2) tiksliai žinote, kad norite pvz. kurti puslapius, žaidimus, kad norite išmokti Data Science, nors ir turiu supratimą ML ir AI, bet kursai būtų geriau.
 
 Čia daugiau apie [mano patirtį](https://github.com/AndrejusAnto).
 
