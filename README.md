@@ -6,7 +6,7 @@
 
 2) vyresnis ir norite susipažinti ar pvz. dabartiniame darbe pritaikyti programvimo dalykus kaip taip vadinamas script'tinimas.
 
-3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [Data Science](https://www.turingcollege.com/data-science) arba [Masters Degree](https://www.turingcollege.com/masters-degree).
+3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [Turing College Data Science](https://www.turingcollege.com/data-science) arba [Turing College Masters Degree](https://www.turingcollege.com/masters-degree).
 
 ##### Privalumai:
 1) nereikia įsipareigoti ilgesniam laikotarpiui (priklausomai nuo kursų termino).
