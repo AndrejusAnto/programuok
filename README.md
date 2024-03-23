@@ -20,6 +20,8 @@
 
 2) tiksliai žinote, kad norite pvz. kurti puslapius, kurti žaidimus ir pan., tada nepadėsiu.
 
+Čia daugiau apie [mano patirtį](https://github.com/AndrejusAnto).
+
 ##### 1 val. pamoka:
 
 | Avansas | Po pamokos |
