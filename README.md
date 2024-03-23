@@ -24,6 +24,7 @@
 
 ##### 1 val. pamoka:
 
+10 eur arba:
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
