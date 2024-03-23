@@ -24,9 +24,12 @@
 
 ##### 1 val. pamoka:
 
+|       :---:          |
+|   10 Eur             |
+        arba 
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
-|   5Eur  |     5Eur   |
+|5Eur  |5Eur   |
 
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes ilgalaikis progreso sekimas ne problema. 
 
