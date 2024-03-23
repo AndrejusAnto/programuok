@@ -1,4 +1,4 @@
-Šiuo metu labai išpopuliarinta profesija - programavimas (ir algos neblogos), bet programavimas yra labai specifinis ir tiesiog būti pasirengusiam programuoti, nors jei ir nėra problemos su matematika, neužtenka, nes yra posakis "Visi (beveik) gali programuoti, bet ne visi turėtų". Užimtumo tarnyba turi galimybę finansuoti programvimo kursus, nesvarbu ar dirbantis ar bedarbis. Čia problema, kad turit tiksliai žinoti, kad tikrai norite programuoti, nes jei po kiek laiko susiprasite, kad ne jums arba jei gyvenimiškos aplinkybės nebeleis tęsti kursų, reiks sumokėti kompensuojamas kursų kainas, o programavimo kursai nėra pigūs. Ir dar tada po kursų teks per 6 mėn. susirasti darbą, kas nėra paprasta (aišku, kai kam nusišypso sėkmė) arba bent minimaliai 6 mėn. mokėti PSD išsiėmus individualios veiklos pažymėjimą. 
+Šiuo metu labai išpopuliarinta profesija - programavimas (ir algos neblogos), bet ši profesija yra labai specifinis ir tiesiog būti pasirengusiam programuoti, nors jei ir nėra problemos su matematika, neužtenka, nes yra posakis "Visi (beveik) gali programuoti, bet ne visi turėtų". Užimtumo tarnyba turi galimybę finansuoti programvimo kursus, nesvarbu ar dirbantis ar bedarbis. Čia problema, kad turit tiksliai žinoti, kad tikrai norite programuoti, nes jei po kiek laiko susiprasite, kad ne jums arba jei gyvenimiškos aplinkybės nebeleis tęsti kursų, reiks sumokėti kompensuojamas kursų kainas, o programavimo kursai nėra pigūs. Ir dar tada po kursų teks per 6 mėn. susirasti darbą, kas nėra paprasta (aišku, kai kam nusišypso sėkmė) arba bent minimaliai 6 mėn. mokėti PSD išsiėmus individualios veiklos pažymėjimą. 
 
 ##### Taigi galiu supažindinti/išmokyti **"high level" Python'o** ir **"low level" C** (pačioje apačioje galite paspausti ant AndrejusAnto, kad pamatytumėte mano patirtį) programvimo kalbomis ir nesvarbu ar esate:
 
@@ -28,4 +28,12 @@
 
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes ilgalaikis progreso sekimas ne problema. 
 
-Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo nuoroda (naudojama https://p2p.mirotalk.com/, https://sfu.mirotalk.com/ ir pan.), galima naudoti ir pvz. Brave Talk https://brave.com/talk/ (reiktų instaliuoti Brave naršykle, bet kai nebereiktų, tiesiog galima išinstaliuoti), nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip https://internxt.com/temporary-email arba https://incognitomail.co/. Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje https://azuolynobiblioteka.lt/rezervacijos/.
+Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo *nuoroda, nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip https://internxt.com/temporary-email arba https://incognitomail.co/. Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje https://azuolynobiblioteka.lt/rezervacijos/.
+
+*naudojama:
+
+https://p2p.mirotalk.com/
+
+https://sfu.mirotalk.com/ 
+
+galimi ir kiti variantai kaip Brave Talk https://brave.com/talk/, bet reiktų instaliuoti Brave naršykle, jau kai nebereiktų, tiesiog galima išinstaliuoti.
