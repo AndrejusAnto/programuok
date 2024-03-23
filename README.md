@@ -23,6 +23,7 @@
 Čia daugiau apie [mano patirtį](https://github.com/AndrejusAnto).
 
 ##### 1 val. pamoka:
+
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
