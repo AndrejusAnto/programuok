@@ -37,9 +37,9 @@ nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs nep
 
 3) ateityje galbūt ir grynais.
 
-Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes ilgalaikis progreso sekimas ne problema. 
+Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas. 
 
-Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo *nuoroda, nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip https://internxt.com/temporary-email arba https://incognitomail.co/. Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje https://azuolynobiblioteka.lt/rezervacijos/.
+Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo *nuoroda, nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip [internxt.com](https://internxt.com/temporary-email) arba [incognitomail](https://incognitomail.co/). Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje [rezervacija](https://azuolynobiblioteka.lt/rezervacijos/).
 
 *naudojama:
 
