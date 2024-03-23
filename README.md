@@ -27,6 +27,7 @@
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
 |   5Eur  |     5Eur   |
+(nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs neprarastumėte visos pamokos kainos, tuo pačiu ir aš neprarasčiau valandos).
 
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas, nes ilgalaikis progreso sekimas ne problema. 
 
