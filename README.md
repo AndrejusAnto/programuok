@@ -43,8 +43,8 @@ Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama pr
 
 *naudojama:
 
-https://p2p.mirotalk.com/
+[p2p.mirotalk](https://p2p.mirotalk.com/)
 
-https://sfu.mirotalk.com/ 
+[sfu.mirotalk/](https://sfu.mirotalk.com/) 
 
-galimi ir kiti variantai kaip Brave Talk https://brave.com/talk/, bet reiktų instaliuoti Brave naršykle, jau kai nebereiktų, tiesiog galima išinstaliuoti.
+galimi ir kiti variantai kaip [Brave Talk](https://brave.com/talk/), bet reiktų instaliuoti Brave naršykle, jau kai nebereiktų, tiesiog galima išinstaliuoti.
