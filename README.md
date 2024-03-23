@@ -22,9 +22,7 @@
 
 Čia daugiau apie [mano patirtį](https://github.com/AndrejusAnto).
 
-##### 1 val. pamoka:
-
-10 eur arba:
+##### 1 val. pamoka 10 eur arba:
 
 | Avansas | Po pamokos |
 |  :---:  |    :---:   |
