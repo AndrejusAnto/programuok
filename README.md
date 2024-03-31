@@ -4,7 +4,7 @@
 
 1) jaunuolis
 
-2) vyresnis ir norite susipažinti ar pvz. dabartiniame darbe pritaikyti programvimo dalykus kaip taip vadinamas script'tinimas.
+2) vyresnis ir norite susipažinti ar pvz. dabartiniame darbe pritaikyti programavimo dalykus kaip taip vadinamas script'tinimas.
 
 3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [Turing College Data Science](https://www.turingcollege.com/data-science) arba [Turing College Masters Degree](https://www.turingcollege.com/masters-degree).
 
@@ -13,7 +13,7 @@
 
 2) man paprasčiau pristatyti naujus dalykus, nes kursai nelankstūs dėl biurokratinių dalykų.
 
-3) lengviau prisitaikyti prie jūsų poreikių: užduotys, projektai ir pan.
+3) lengviau prisitaikyti prie jūsų poreikių: užduotys, projektai ir pan. ir kad tai būtų prasminga, o ne kad tik padaryti.
 
 ##### Nesikreipti, jei:
 1) reikia atlikti mokymosi įstaigų užduotis.
