@@ -47,4 +47,4 @@ Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama pr
 
 [sfu.mirotalk/](https://sfu.mirotalk.com/) 
 
-galimi ir kiti variantai kaip [Brave Talk](https://brave.com/talk/), bet reiktų instaliuoti Brave naršykle, jau kai nebereiktų, tiesiog galima išinstaliuoti.
+galimi ir kiti variantai kaip [Brave Talk](https://brave.com/talk/), bet reiktų instaliuoti Brave naršyklę, jau kai nebereiktų, tiesiog galima išinstaliuoti.
