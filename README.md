@@ -10,7 +10,7 @@
 
 Kodėl Python'as? Todėl, kad *populiariausia kalba ir su ja galima labai daug dalyką pasimokyti/patestuoti.
 
-Kodėl C? Nes labai grubiai yra "lengvas" ir "sunkus" programavimas ir C yra gan nebloga kalba mokytis tą "sunkensį" programavimą.
+Kodėl C? Nes labai grubiai yra "lengvos" ir "sunkios" programavimo kalbos ir C yra gan nebloga kalba mokytis tą "sunkensį" programavimą.
 
 ##### Privalumai:
 1) nereikia įsipareigoti ilgesniam laikotarpiui (priklausomai nuo kursų termino).
