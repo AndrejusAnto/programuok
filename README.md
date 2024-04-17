@@ -8,6 +8,9 @@
 
 3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [Turing College Data Science](https://www.turingcollege.com/data-science) arba [Turing College Masters Degree](https://www.turingcollege.com/masters-degree).
 
+Kodėl Python'as? Todėl, kad *populiariausia kalba ir su ja galima labai daug dalyką pasimokyti/patestuoti.
+Kodėl C? Nes labai grubiai yra "lengvas" ir "sunkus" programavimas ir C yra gan nebloga kalba mokytis tą "sunkensį" programavimą.
+
 ##### Privalumai:
 1) nereikia įsipareigoti ilgesniam laikotarpiui (priklausomai nuo kursų termino).
 
