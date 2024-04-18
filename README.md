@@ -41,16 +41,8 @@ nes gyvenime visko nutinka, todėl jei nepavyktų sudalyvauti pamokoje, jūs nep
 
 3) ateityje galbūt ir grynais.
 
-Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas. 
+Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo nuoroda, nebūtina nurodyti savo tikro el.pašto, galima pasinaudoti laikino el.pašto paslaugomis kaip [internxt.com](https://internxt.com/temporary-email) arba [incognitomail](https://incognitomail.co/). Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje [rezervacija](https://azuolynobiblioteka.lt/rezervacijos/).
 
-Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama prisijungimo *nuoroda, nebūtina nurodyti savo tikro emailo, galima pasinaudoti laikino emailo paslaugomis kaip [internxt.com](https://internxt.com/temporary-email) arba [incognitomail](https://incognitomail.co/). Ateityje tikuosi, kad bus galima gyvai pasinaudojus vietų registracija ąžuolyno bibliotekoje [rezervacija](https://azuolynobiblioteka.lt/rezervacijos/).
+Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas.
 
-*naudojama:
-
-[p2p.mirotalk](https://p2p.mirotalk.com/)
-
-[sfu.mirotalk/](https://sfu.mirotalk.com/) 
-
-galimi ir kiti variantai kaip [Brave Talk](https://brave.com/talk/), bet reiktų instaliuoti Brave naršyklę, jau kai nebereiktų, tiesiog galima išinstaliuoti.
-
-*pagal [pypl.github.io](https://pypl.github.io/PYPL.html).
+*pagal [pypl.github.io](https://pypl.github.io/PYPL.html). Realiai tai yra skirtingų programvimo kalbų sąrašų, bet Python'as dažnai patenka į Top5.
