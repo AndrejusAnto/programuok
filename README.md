@@ -26,7 +26,7 @@ Kodėl C? Nes grubiai yra "lengvos" ir "sunkios" programavimo kalbos ir C yra ga
 
 2) tiksliai žinote, kad norite pvz. kurti puslapius, žaidimus, kad norite išmokti Data Science, nors ir turiu supratimą ML ir AI, bet kursai būtų geriau.
 
-Čia daugiau apie [mano patirtį](https://github.com/AndrejusAnto).
+Daugiau apie mano patirtį [čia](https://github.com/AndrejusAnto).
 
 ##### 1 val. pamoka 10 eur arba:
 
