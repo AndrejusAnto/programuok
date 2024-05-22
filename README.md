@@ -7,6 +7,7 @@
 2) vyresnis ir norite susipažinti ar pvz. dabartiniame darbe pritaikyti programavimo dalykus kaip taip vadinamas script'tinimas.
 
 3) nusižiūrėję ne programavimo kursus, kurie reikalauja šiokio tokio programavimo supratimo,  kaip pvz. [Turing College Data Science](https://www.turingcollege.com/data-science) arba [Turing College Masters Degree](https://www.turingcollege.com/masters-degree).
+4) jei norite susipažinti su tam tikromis bibliotekomis (libaries) pvz. pandas, numpy ir pan.
 
 Kodėl Python'as? Todėl, kad *populiariausia kalba ir su ja galima labai daug programavimo dalykų pasimokyti/patestuoti.
 
