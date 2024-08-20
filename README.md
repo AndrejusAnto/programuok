@@ -48,3 +48,6 @@ Kol kas pamokos vyktų online būdu, jūsų nurodytu emailu būtų siunčiama pr
 Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po to jau galima arba savarankiškai toliau mokytis arba rinktis kursus. Aišku, pagal jūsų poreikius galimas ir ilgalaikis bendravimas.
 
 *pagal [pypl.github.io](https://pypl.github.io/PYPL.html). Realiai tai yra skirtingų programvimo kalbų sąrašų, bet Python'as dažnai patenka į Top5.
+
+ATETIYJE: Našusis (C) programavimas
+
