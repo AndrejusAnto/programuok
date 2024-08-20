@@ -51,5 +51,14 @@ Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po t
 
 # ATETIYJE: Našusis (C) programavimas
 
+Internete yra daug informacijas apie programavimo ir deja daug yra "niekam tikusios". Daugeliu atveju, tai nėra rašančiųjų kaltė, tiesiog jau tokia programavimo mokymo padėtis (kaip ir daug ko ant šitos planetos). Taigi, grubiai programavimas yra:
+
+* macro: tai taip vadinmas "H"
+* mid:
+* micro:
+
+
+
+
 
 
