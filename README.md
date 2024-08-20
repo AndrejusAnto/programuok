@@ -49,5 +49,7 @@ Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po t
 
 *pagal [pypl.github.io](https://pypl.github.io/PYPL.html). Realiai tai yra skirtingų programvimo kalbų sąrašų, bet Python'as dažnai patenka į Top5.
 
-ATETIYJE: Našusis (C) programavimas
+# ATETIYJE: Našusis (C) programavimas
+
+
 
