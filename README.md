@@ -51,14 +51,8 @@ Priklausomai nuo kompiuterinio raštingumo, grubiai reiktų iki 10 pamokų, po t
 
 # ATETIYJE: Našusis (C) programavimas
 
-Internete yra daug informacijas apie programavimo ir deja daug yra "niekam tikusios". Daugeliu atveju, tai nėra rašančiųjų kaltė, tiesiog jau tokia programavimo mokymo padėtis (kaip ir daug ko ant šitos planetos). Taigi, grubiai programavimas yra:
+Internete yra daug info apie programavimą ir deja daug yra "niekam tikusios". Daugeliu atveju, tai nėra rašančiųjų kaltė, tiesiog jau tokia programavimo mokymo padėtis (kaip ir daug ko ant šitos planetos). Taigi, grubiai programavimas yra:
 
-* macro: tai taip vadinmas "H"
-* mid:
-* micro:
-
-
-
-
-
-
+* micro: tai programavimas, kuris užsiima optimizavimu iki begalybės, daugeliu atveju programuojant "Assembly". Šis programavimas reikalingas, bet ne visi turėtų tuo užsiimti.  
+* mid: tai programavimas, kai suprantant, kaip veikia CPU RAM, DISKAI, GPU aka "performance-aware" ir kai išspaudžiamas visas galimas našumas ir naudojanat mažiau resursų. Būtų gerai, kad kuo daugiau žmonių tuo užsimti, bet teks spręsti programavimo mokymo problemą.
+* macro: tai taip vadinmas "High level" programavimas ir jis reikalingas, nes realiam pasaulyje "verslas turi būti daromas". Tai yra taip vadininamas "Web Development", naudojant Python'o programavimo kalbą ir pan. Kuo mažiau žmonių, tuo geriau.
