@@ -1,7 +1,7 @@
 # TRUMPAI:
 
 * Galiu supažindinti/išmokyti C ir Python.
-* (Pa)konsultuot dėl techninės įrangos: telefonai, televizoriai, nešiojami/stacionarūs kompiuteriai, tablet'ai ir pan.
+* (Pa)konsultuot dėl techninės įrangos: telefonai, televizoriai, nešiojami/stacionarūs kompiuteriai, tablet'ai ir pan. Pvz. jei turite kelis pasirinkimus ir reiktų patarimo kurį, aišku, jei būtų galimybė ir pasiūlyti geresnį variantą.
 
 # PLAČIAU:
 
