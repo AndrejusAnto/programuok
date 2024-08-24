@@ -3,8 +3,11 @@
 * Galiu supažindinti/išmokyti C ir Python.
 * (Pa)konsultuot dėl techninės įrangos, jei pvz. turite kelis pasirinkimus ir reiktų patarimo kurį ir aišku, jei būtų galimybė, pasiūlyti geresnį variantą:
   ++ telefonai/tablet'ai
+
   ++ nešiojami/stacionarūs kompiuteriai
+
   -- telefonai/tablet'ai
+
   -- nešiojami/stacionarūs kompiuteriai
 
 
