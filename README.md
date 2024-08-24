@@ -1,6 +1,6 @@
 # TRUMPAI:
 
-* Galiu supažindinti/išmokyti programavimu (C, Python)
+* Galiu supažindinti/išmokyti C ir Python.
 * (Pa)konsultuot dėl techninės įrangos: telefonai, televizoriai, nešiojami/stacionarūs kompiuteriai, tablet'ai ir pan.
 
 # PLAČIAU::
