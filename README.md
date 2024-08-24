@@ -1,9 +1,9 @@
 # TRUMPAI:
-
+az
 + Galiu supažindinti/išmokyti C ir Python.
 + (Pa)konsultuot dėl techninės įrangos, jei pvz. turite kelis pasirinkimus ir reiktų patarimo ir aišku, jei būtų galimybė, pasiūlyti geresnį variantą:
-    + telefonai/tablet'ai
-    + nešiojami/stacionarūs kompiuteriai
+        + telefonai/tablet'ai
+        + nešiojami/stacionarūs kompiuteriai
 
 # PLAČIAU:
 
