@@ -8,6 +8,7 @@
 # PLAČIAU:
 
 Šiuo metu labai išpopuliarinta profesija - programavimas (ir algos neblogos), bet ši profesija yra labai specifinė ir tiesiog būti pasirengusiam programuoti, nors jei ir nėra problemos su matematika, neužtenka, nes yra posakis "Visi (beveik) gali programuoti, bet ne visi turėtų". Užimtumo tarnyba gali finansuoti programvimo kursus, nesvarbu ar dirbantis ar bedarbis. Problema, kad turit tiksliai žinoti, kad tikrai norite programuoti, nes jei po kiek laiko susiprasite, kad ne jums arba jei gyvenimiškos aplinkybės nebeleis tęsti kursų, reiks sumokėti kompensuojamas kursų kainas, o programavimo kursai nėra pigūs. Ir dar tada po kursų teks per 6 mėn. susirasti darbą, kas nėra paprasta (aišku, kai kam nusišypso sėkmė) arba bent minimaliai 6 mėn. mokėti PSD išsiėmus individualios veiklos pažymėjimą. 
+## Darbarinė mokymosi tema: # SKURDAS
 
 ##### Taigi galiu supažindinti/išmokyti su **"high level" Python'o** ir **"low level" C** programavimo kalbomis ir nesvarbu ar esate:
 
