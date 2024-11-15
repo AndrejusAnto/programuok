@@ -4,6 +4,7 @@
 + (Pa)konsultuot dėl techninės įrangos, jei pvz. turite kelis pasirinkimus ir reiktų patarimo ir aišku, jei būtų galimybė, pasiūlyti geresnį variantą:
   - telefonai/tablet'ai
   - nešiojami/stacionarūs kompiuteriai
++ Pakonsultuot nemokamais Googl services https://cloud.google.com/free/docs/free-cloud-features
 
 # PLAČIAU:
 
